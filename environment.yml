@@ -1,0 +1,7 @@
+name: iap_validator
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - customtkinter
+      - pyinstaller
